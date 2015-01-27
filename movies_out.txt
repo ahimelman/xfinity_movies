@@ -1,0 +1,432 @@
+Last Train Home 100 2009 51
+The Godfather 100 1972 81
+Everyday Sunshine: The Story of Fishbone 100 2010 43
+Wadjda 99 2012 102
+Bill Cunningham New York 99 2010 67
+The Godfather, Part II 99 1974 68
+The French Connection 98 1971 51
+Jodorowsky's Dune 98 2013 108
+Beware of Mr. Baker 98 2012 48
+Aliens 98 1986 61
+Say Anything... 98 1989 41
+Broadcast News 98 1987 41
+One False Move 98 1991 45
+Hoop Dreams 98 1994 49
+Manhattan 98 1979 53
+Project Nim 98 2011 131
+Alien 97 1979 93
+The Incredibles 97 2004 231
+Big 97 1988 70
+I Am Divine 96 2013 50
+The Crash Reel 96 2013 46
+The Lunchbox 96 2013 94
+Enough Said 96 2013 165
+The LEGO Movie 96 2014 221
+12 Years a Slave 96 2013 289
+Before Sunset 95 2004 170
+Hero 95 2002 200
+Midnight Run 95 1988 44
+Unforgiven 95 1992 80
+The Guard 95 2011 122
+Best Worst Movie 95 2009 62
+In the Line of Fire 95 1993 65
+West of Memphis 95 2012 111
+Moonrise Kingdom 94 2012 224
+Blood Simple 94 1984 80
+Away From Her 94 2006 143
+Finding Vivian Maier 94 2013 88
+Young Frankenstein 94 1974 51
+The Normal Heart 94 2014 48
+Fargo 94 1996 84
+Her 94 2013 229
+Full Metal Jacket 94 1987 72
+In the Name of the Father 94 1993 49
+American Splendor 94 2003 181
+Dear Zachary: A Letter to a Son About His Father 94 2008 49
+Amour 93 2012 194
+Lassie 93 2005 68
+Le Quattro Volte 93 2010 54
+The Squid and the Whale 93 2005 141
+A Fish Called Wanda 93 1988 59
+About a Boy 93 2002 183
+Captain Phillips 93 2013 237
+Mission: Impossible - Ghost Protocol 93 2011 227
+Super Size Me 93 2004 170
+Out of Sight 93 1998 88
+Deliverance 93 1972 54
+Duma 93 2005 61
+Eternal Sunshine of the Spotless Mind 93 2004 232
+Glory 93 1989 41
+The Diving Bell and the Butterfly 93 2007 165
+That Thing You Do! 93 1996 54
+Carrie 92 1976 52
+The Shining 92 1980 63
+Katyn 92 2007 65
+Silver Linings Playbook 92 2012 227
+The Devil's Backbone 92 2001 117
+Ghost World 92 2001 153
+Rocky 92 1976 53
+Philomena 92 2013 171
+Ballast 92 2008 74
+A Bug's Life 92 1998 84
+Men in Black 92 1997 84
+Take Shelter 92 2011 151
+The Grand Budapest Hotel 92 2014 256
+Dogtooth 92 2009 62
+Die Hard 92 1988 64
+The Secret of Kells 91 2009 80
+City of Life and Death 91 2009 47
+Transsiberian 91 2008 82
+Baadasssss! 91 2004 107
+Little Miss Sunshine 91 2006 208
+Mistaken for Strangers 91 2013 58
+Up in the Air 91 2009 265
+Ballets Russes 91 2005 58
+Blade Runner 91 1982 96
+God Grew Tired of Us 91 2007 70
+The Weather Underground 91 2003 57
+Blue Jasmine 91 2013 196
+Lantana 90 2001 103
+Little Shop of Horrors 90 1986 49
+Zombieland 90 2009 233
+The Piano 90 1993 49
+Raising Arizona 90 1987 50
+Blow Out 90 1981 41
+Keep the Lights On 90 2012 61
+October Sky 90 1999 72
+Whale Rider 90 2002 146
+The Magdalene Sisters 90 2002 147
+My Summer of Love 90 2004 87
+Hotel Rwanda 90 2004 189
+Capote 90 2005 181
+Neil Young: Heart of Gold 90 2006 98
+Terribly Happy 89 2008 46
+Captain America: The Winter Soldier 89 2014 253
+The Savages 89 2007 166
+Bears 89 2014 56
+A Clockwork Orange 89 1971 47
+Tim's Vermeer 89 2013 113
+Hilary and Jackie 89 1998 45
+Ginger Snaps 89 2000 55
+Frozen 89 2013 214
+Harry Potter and the Goblet of Fire 88 2005 246
+Django Unchained 88 2012 247
+Frozen River 88 2008 128
+RoboCop 88 1987 58
+Platoon 88 1986 58
+Broken Flowers 88 2005 186
+The Abyss 88 1989 43
+When Harry Met Sally... 88 1989 59
+Hoosiers 88 1986 43
+Rare Exports: A Christmas Tale 88 2010 95
+Swingers 87 1996 52
+Romancing the Stone 87 1984 47
+The Ground Truth 87 2006 47
+Far from Heaven 87 2002 210
+Affliction 87 1998 47
+Mid-August Lunch 87 2008 62
+The People vs. Larry Flynt 87 1996 53
+The Quiet American 87 2002 151
+Roman Polanski: Wanted and Desired 87 2008 47
+Bobby Fischer Against the World 87 2011 45
+The Aviator 87 2004 213
+To Die For 87 1995 54
+Pi 87 1998 54
+Treeless Mountain 86 2008 56
+Sexy Beast 86 2000 129
+Starting Out in the Evening 86 2007 99
+The Conjuring 86 2013 196
+Lovely & Amazing 86 2001 121
+Aileen: Life and Death of a Serial Killer 86 2003 58
+Inside Man 86 2006 197
+The Patience Stone 86 2012 57
+State and Main 86 2000 115
+Yossi 86 2012 43
+The Way, Way Back 85 2013 169
+Pleasantville 85 1998 93
+Batman Begins 85 2005 266
+My Cousin Vinny 85 1992 52
+Kill Bill: Vol. 1 85 2003 224
+The 40-Year-Old-Virgin 85 2005 181
+Soul Power 85 2009 73
+Master And Commander 85 2003 208
+Only Lovers Left Alive 85 2013 157
+Pieces of April 84 2003 147
+Magnolia 84 1999 141
+Erin Brockovich 84 2000 143
+Kill Bill: Volume 2 84 2004 230
+Meet the Parents 84 2000 146
+Mad Hot Ballroom 84 2005 116
+Tyson 84 2008 136
+The Mask of Zorro 83 1998 69
+American History X 83 1998 82
+Planet B-Boy 83 2008 42
+The September Issue 83 2009 111
+The Talented Mr. Ripley 83 1999 128
+The Rape of Europa 83 2007 47
+Inside Deep Throat 83 2005 120
+Atonement 83 2007 209
+This Is the End 83 2013 206
+The Hurricane 83 1999 113
+L.I.E. 83 2001 82
+Finding Neverland 83 2004 202
+In Good Company 83 2004 167
+Seven Psychopaths 83 2012 197
+There's Something About Mary 83 1998 83
+The Salt of Life 83 2011 47
+Prisoners 82 2013 223
+Night Catches Us 82 2010 51
+Ghost Dog: The Way of the Samurai 82 1999 94
+Walk the Line 82 2005 204
+Serenity 82 2005 179
+American: The Bill Hicks Story 82 2009 57
+Life, Above All 82 2010 72
+Darkman 82 1990 57
+Step Into Liquid 82 2003 79
+Charlie and the Chocolate Factory 82 2005 222
+Dead Again 82 1991 44
+GoldenEye 82 1995 50
+Hustle & Flow 82 2005 155
+Dances With Wolves 81 1990 63
+No Impact Man 81 2008 48
+Driving Miss Daisy 81 1989 52
+Mulholland Dr. 81 2001 154
+Dear Frankie 81 2004 110
+Jesus' Son 81 1999 47
+The Impossible 81 2012 183
+Ray 81 2004 198
+The Tao of Steve 80 2000 49
+Slums of Beverly Hills 80 1998 60
+The Place Beyond the Pines 80 2012 197
+Breakdown 80 1997 50
+He Got Game 80 1998 61
+Private Parts 80 1997 49
+Mystery Science Theater 3000: The Movie 80 1996 54
+Attenberg 80 2010 41
+Higher Ground 80 2011 87
+Sunshine State 80 2002 107
+Fight Club 80 1999 160
+Barney's Version 80 2010 132
+I Capture the Castle 80 2004 82
+Waking Life 80 2001 141
+The Untouchables 80 1987 55
+Saving Mr. Banks 80 2013 230
+The Raid 2 79 2014 155
+Red Eye 79 2005 186
+Muppets Most Wanted 79 2014 169
+Owning Mahowny 79 2003 94
+42 79 2013 178
+Quartet 79 2012 135
+Teeth 79 2008 67
+Sin City 78 2005 246
+Veronica Mars 78 2014 120
+Crazy, Stupid, Love. 78 2011 202
+Iron Man 3 78 2013 281
+25th Hour 78 2002 165
+The Cooler 77 2003 171
+The Sisterhood of the Traveling Pants 77 2005 129
+In a Better World 77 2011 115
+The Invisible Woman 77 2013 141
+ALPS 76 2011 41
+Licence to Kill 76 1989 49
+8 Mile 76 2002 205
+Brother to Brother 76 2004 41
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe 76 2005 209
+Tigerland 76 2000 46
+Lone Survivor 75 2013 201
+The Devil Wears Prada 75 2006 187
+The Cat's Meow 75 2002 124
+The Way Back 75 2010 128
+The Kings of Summer 75 2013 109
+Wedding Crashers 75 2005 182
+Secretary 75 2002 143
+Killing Them Softly 75 2012 212
+Over the Hedge 75 2006 168
+Dawn of the Dead 75 2004 180
+Sunshine 75 2007 165
+The Dead Girl 75 2006 79
+The Hobbit: The Desolation of Smaug 74 2013 215
+Songcatcher 74 2000 88
+Hello I Must Be Going 74 2012 50
+The Matador 74 2005 152
+Eyes Wide Shut 74 1999 145
+The Painted Veil 74 2006 143
+The Upside of Anger 74 2005 181
+Godzilla 74 2014 278
+Les Miserables 74 1998 43
+Dark City 74 1998 80
+Primal Fear 74 1996 43
+The Water Horse 74 2007 89
+Monster House 74 2006 158
+Land of the Dead 74 2005 171
+Despicable Me 2 74 2013 171
+The Guys 73 2002 62
+The Last Kiss 73 2001 78
+Falling Down 73 1993 49
+Gainsbourg 73 2010 78
+Nanny McPhee 73 2005 131
+Remember the Titans 73 2000 132
+The Tree 73 2010 66
+Before Night Falls 73 2000 98
+Infamous 73 2006 146
+The Horse Whisperer 73 1998 56
+Beavis and Butt-head Do America 72 1996 54
+Chopper 72 2000 67
+High Art 72 1998 43
+Pacific Rim 72 2013 253
+Rob Roy 72 1995 43
+The Professional 72 1994 57
+True Lies 72 1994 47
+Fright Night 72 2011 163
+Syriana 72 2005 193
+Primer 72 2004 119
+Paper Clips 72 2004 53
+Flushed Away 72 2006 130
+Bread & Tulips 71 2000 62
+Return to Paradise 71 1998 45
+Phone Booth 71 2002 188
+The Game 71 1997 52
+Valhalla Rising 71 2009 55
+Made 71 2001 107
+My Best Friend's Wedding 71 1997 56
+Mrs. Doubtfire 71 1993 49
+Mrs. Palfrey at the Claremont 71 2005 58
+Thumbsucker 71 2005 112
+My Date With Drew 71 2004 65
+Dogville 70 2003 163
+Dark Horse 70 2011 71
+About Time 69 2013 138
+Disconnect 69 2012 74
+The Wolverine 69 2013 216
+Criminal 69 2004 120
+Red Dragon 69 2002 185
+Religulous 69 2008 153
+Stoker 69 2013 181
+Keeping the Faith 69 2000 115
+Legally Blonde 68 2001 138
+Fast & Furious 6 68 2013 183
+Elysium 68 2013 228
+Ronin 68 1998 60
+Once upon a Time in Mexico 68 2003 163
+Trance 68 2013 167
+The Darjeeling Limited 68 2007 188
+About Last Night 68 2014 92
+Point Break 68 1991 57
+Daybreakers 67 2009 142
+Small Time Crooks 67 2000 99
+The Godfather, Part III 67 1990 57
+Charlie's Angels 67 2000 141
+On a Clear Day 67 2005 67
+Right at Your Door 67 2006 55
+The End of the Affair 67 1999 66
+Sleepy Hollow 67 1999 126
+Diamonds Are Forever 66 1971 41
+The Rock 66 1996 64
+Stuart Little 66 1999 97
+Wristcutters: A Love Story 66 2006 89
+Brown Sugar 66 2002 85
+Thor: The Dark World 65 2013 223
+Reality Bites 65 1994 52
+The Heat 65 2013 165
+The Jane Austen Book Club 65 2007 115
+The Hobbit: An Unexpected Journey 64 2012 270
+August: Osage County 64 2013 177
+Wild Things 64 1998 58
+Day Watch 64 2006 96
+Robots 64 2005 177
+Wild at Heart 64 1990 45
+The Forbidden Kingdom 64 2008 126
+Spartan 64 2004 133
+Dick Tracy 64 1990 45
+The Shape of Things 64 2003 134
+Sixty Six 63 2006 51
+King of California 63 2007 68
+Bring It On 63 2000 117
+Cabin Fever 63 2002 137
+Changeling 63 2008 196
+Chocolat 63 2000 115
+Contact 63 1997 62
+Anna Karenina 63 2012 177
+Below 63 2002 68
+The Five-Year Engagement 63 2012 164
+Saving Grace 63 2000 89
+Hulk 62 2003 229
+The Patriot 62 2000 133
+Amigo 62 2010 45
+Evil Dead 62 2013 173
+10 Things I Hate About You 61 1999 62
+Find Me Guilty 61 2006 104
+Million Dollar Arm 61 2014 132
+Something New 61 2006 106
+Death at a Funeral 61 2007 127
+Hostel 61 2006 104
+Jarhead 61 2005 196
+Interview With the Vampire 61 1994 51
+Stuck on You 60 2003 156
+A Civil Action 60 1998 68
+Permanent Midnight 60 1998 52
+The Hitchhiker's Guide to the Galaxy 60 2005 194
+Ender's Game 60 2013 196
+Mandela: Long Walk to Freedom 59 2014 123
+Little Secrets 59 2001 49
+Dom Hemingway 59 2014 121
+The Importance of Being Earnest 58 2002 113
+X-Men: The Last Stand 58 2006 231
+The Eye of the Storm 58 2011 52
+Riddick 58 2013 154
+Becoming Jane 57 2007 137
+Breakfast on Pluto 57 2005 116
+The Guru 57 2002 87
+Interview 57 2007 122
+Tomorrow Never Dies 57 1997 63
+Ice Age: The Meltdown 57 2006 143
+Dr. T and the Women 57 2000 107
+Die Another Day 57 2002 198
+Ned Kelly 56 2003 54
+Hunky Dory 56 2011 43
+Snitch 56 2013 140
+The Notorious Bettie Page 56 2005 133
+Charlie Bartlett 56 2007 131
+The Mexican 56 2001 129
+The Life Aquatic with Steve Zissou 56 2004 199
+Married Life 55 2008 116
+For a Good Time, Call... 55 2012 105
+Con Air 55 1997 62
+The Look of Love 55 2013 71
+Blade 55 1998 85
+16 Blocks 55 2006 159
+The Company You Keep 55 2012 111
+Man of Steel 55 2013 287
+What Dreams May Come 54 1998 69
+Girl, Interrupted 54 1999 112
+Choke 54 2008 138
+The Doors 54 1991 59
+The Faculty 54 1998 50
+Top Gun 54 1986 48
+Oblivion 54 2013 227
+The Golden Bowl 54 2000 85
+Mr. 3000 54 2004 112
+Bully 54 2001 91
+City of Ember 53 2008 124
+Wolf Creek 53 2005 110
+Steep 53 2007 47
+The Reluctant Fundamentalist 53 2012 92
+Love Liza 53 2002 85
+The Amazing Spider-Man 2 53 2014 257
+Going the Distance 53 2010 160
+Josie and the Pussycats 53 2001 120
+Jack the Giant Slayer 52 2013 193
+Out of Africa 52 1985 42
+The Next Three Days 52 2010 161
+Two Girls and a Guy 52 1998 60
+Bounce 52 2000 107
+Promised Land 51 2012 144
+The World Is Not Enough 51 1999 121
+Chloe 51 2009 151
+The Man from Elysian Fields 51 2001 70
+Halloween H20: 20 Years Later 51 1998 57
+Good Dick 51 2007 41
+Kiss of the Dragon 51 2001 106
+Aquamarine 51 2006 88
+Universal Soldier: Day of Reckoning 51 2012 45
+Cruising 51 1980 41
