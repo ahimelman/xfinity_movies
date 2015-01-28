@@ -1,6 +1,7 @@
 Last Train Home 100 2009 51
 The Godfather 100 1972 81
 Everyday Sunshine: The Story of Fishbone 100 2010 43
+Deliver Us From Evil 100 2006 71
 Wadjda 99 2012 102
 Bill Cunningham New York 99 2010 67
 The Godfather, Part II 99 1974 68
@@ -27,6 +28,7 @@ Before Sunset 95 2004 170
 Hero 95 2002 200
 Midnight Run 95 1988 44
 Unforgiven 95 1992 80
+Lost in Translation 95 2003 222
 The Guard 95 2011 122
 Best Worst Movie 95 2009 62
 In the Line of Fire 95 1993 65
@@ -56,7 +58,6 @@ Out of Sight 93 1998 88
 Deliverance 93 1972 54
 Duma 93 2005 61
 Eternal Sunshine of the Spotless Mind 93 2004 232
-Glory 93 1989 41
 The Diving Bell and the Butterfly 93 2007 165
 That Thing You Do! 93 1996 54
 Carrie 92 1976 52
@@ -66,12 +67,11 @@ Silver Linings Playbook 92 2012 227
 The Devil's Backbone 92 2001 117
 Ghost World 92 2001 153
 Rocky 92 1976 53
-Philomena 92 2013 171
 Ballast 92 2008 74
 A Bug's Life 92 1998 84
 Men in Black 92 1997 84
 Take Shelter 92 2011 151
-The Grand Budapest Hotel 92 2014 256
+Philomena 92 2013 171
 Dogtooth 92 2009 62
 Die Hard 92 1988 64
 The Secret of Kells 91 2009 80
@@ -82,6 +82,7 @@ Little Miss Sunshine 91 2006 208
 Mistaken for Strangers 91 2013 58
 Up in the Air 91 2009 265
 Ballets Russes 91 2005 58
+High Fidelity 91 2000 163
 Blade Runner 91 1982 96
 God Grew Tired of Us 91 2007 70
 The Weather Underground 91 2003 57
@@ -94,12 +95,11 @@ Raising Arizona 90 1987 50
 Blow Out 90 1981 41
 Keep the Lights On 90 2012 61
 October Sky 90 1999 72
+Neil Young: Heart of Gold 90 2006 98
 Whale Rider 90 2002 146
 The Magdalene Sisters 90 2002 147
 My Summer of Love 90 2004 87
 Hotel Rwanda 90 2004 189
-Capote 90 2005 181
-Neil Young: Heart of Gold 90 2006 98
 Terribly Happy 89 2008 46
 Captain America: The Winter Soldier 89 2014 253
 The Savages 89 2007 166
@@ -171,7 +171,6 @@ The Hurricane 83 1999 113
 L.I.E. 83 2001 82
 Finding Neverland 83 2004 202
 In Good Company 83 2004 167
-Seven Psychopaths 83 2012 197
 There's Something About Mary 83 1998 83
 The Salt of Life 83 2011 47
 Prisoners 82 2013 223
@@ -337,7 +336,6 @@ Robots 64 2005 177
 Wild at Heart 64 1990 45
 The Forbidden Kingdom 64 2008 126
 Spartan 64 2004 133
-Dick Tracy 64 1990 45
 The Shape of Things 64 2003 134
 Sixty Six 63 2006 51
 King of California 63 2007 68
@@ -354,6 +352,7 @@ Hulk 62 2003 229
 The Patriot 62 2000 133
 Amigo 62 2010 45
 Evil Dead 62 2013 173
+Blue Crush 61 2002 140
 10 Things I Hate About You 61 1999 62
 Find Me Guilty 61 2006 104
 Million Dollar Arm 61 2014 132
